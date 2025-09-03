@@ -1,3 +1,7 @@
-This is an intro to git repo's
+This is intro to git repo's
 
-**Does this make the text bold?**
+We will be going over how to use different git features such as making text
+- *cursive* in markdown
+- **blod** text in markdown
+- And making [Links](https://Github.com/GooseToby) in markdown
+
