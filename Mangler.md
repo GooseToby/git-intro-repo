@@ -9,3 +9,5 @@
 - Toiletbørste
 - Skraldespand toilet
 - Moppestykker til moppestang
+- Mikroov
+- Mikroovn
