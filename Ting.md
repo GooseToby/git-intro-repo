@@ -27,6 +27,7 @@
 - Grydelap
 - Viskestykker
 - Karklude
+- Blænder
 
 **Ting værlse**
 - 3 sæt sængetøk

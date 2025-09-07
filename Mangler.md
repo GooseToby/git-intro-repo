@@ -11,3 +11,5 @@
 - Moppestykker til moppestang
 - Mikroov
 - Mikroovn
+- Pære til lamper
+- Håndmixer
