@@ -28,6 +28,7 @@
 - Viskestykker
 - Karklude
 - Blænder
+- Piskeris
 
 **Ting værlse**
 - 3 sæt sængetøk

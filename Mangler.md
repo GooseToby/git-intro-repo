@@ -1,5 +1,4 @@
 **Ting der mangler**
-- Piskeris
 - Talerkner store og små
 - Elkedil
 - Røreskål
