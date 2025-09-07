@@ -7,4 +7,5 @@
 - Håndklæder
 - Vaskeklude
 - Toiletbørste
-- Skraldespand toilet$
+- Skraldespand toilet
+- Moppestykker til moppestang

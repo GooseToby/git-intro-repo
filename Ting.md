@@ -46,6 +46,8 @@
 - Badeforhæng
 - Hårtører
 - Toiletpapir holder
+- Moppestang
+- Kust og fejebakke
 
 **Ting stue**
 - Spisebord
