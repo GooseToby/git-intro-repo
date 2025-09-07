@@ -1,0 +1,10 @@
+**Ting der mangler**
+- Piskeris
+- Talerkner store og små
+- Elkedil
+- Røreskål
+- Gardin til værlse
+- Håndklæder
+- Vaskeklude
+- Toiletbørste
+- Skraldespand toilet$
